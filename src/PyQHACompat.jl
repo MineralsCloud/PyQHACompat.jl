@@ -1,5 +1,5 @@
 module PyQHACompat
 
-# Write your package code here.
+include("io.jl")
 
 end
